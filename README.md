@@ -48,7 +48,7 @@ _____________
 
 ---
 
-## RAHMANI-XMD
+## RAHEEM-XMD
 
 RAHMANI-XMD is a powerful WhatsApp bot with multiple features to automate tasks, moderate groups, and provide entertainment. Deploy it effortlessly to your favorite cloud hosting platform.
 
