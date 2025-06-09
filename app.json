@@ -1,9 +1,9 @@
 {
-  "name":"RAHEEM_XMD",
+  "name":"RAHEEM_XMD-",
   "description":"Best whatsapp bot💥 developed by   Raheem",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/z5g58c.jpg",
-  "repository":"https://github.com/Raheem-cm/RAHEEM_XMD",
+  "repository":"https://github.com/Raheem-cm/RAHEEM_XMD-",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -97,7 +97,7 @@
     
     "desc": "Your name",
     "required": false,
-    "value": "RAHEEM_XMD"
+    "value": "RAHEEM_XMD-"
   },
     "NUMERO_OWNER":
   {
