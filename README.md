@@ -6,16 +6,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=FFD7000&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER+RAHEEM_XMD+😂+0018)](https://git.io/typing-svg)
 <!-- Optional: Add an Image -->
 <p align="center">
-  <img src="https://files.catbox.moe/aktbgo.jpg" alt="Demo Image" width="350"/>
+  <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="350"/>
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD+😜+0018)](https://git.io/typing-svg)
+
+### ❤️ Fork My Repo
 <p align="center">
-  <!-- Fork Button -->
-  <a href="https://github.com/Qartde/RAHMANI-XMD/fork" target="_blank">
-    <img src="https://img.shields.io/badge/Fork%20this%20Repo-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f&color=238636" alt="Fork this repo"/>
-  </a>
-  &nbsp;
+  <a href="https://github.com/Raheem-cm/RAHEEM-XMD/fork">
+    <img src="https://img.shields.io/badge/FORK%20REPO-black?style=for-the-badge&logo=porsche&logoColor=gold" width="220" height="38.45" />
+
+
+## 📞📱 Contact Me
+[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Raheem-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+255763111390)
+
   <!-- Get Session Button -->
   <a href="https://rahmani-4.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ff9800?style=for-the-badge&logo=bolt&logoColor=white&labelColor=f57c00&color=ff9800" alt="Get Session"/>
