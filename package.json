@@ -103,7 +103,7 @@
 
 
 {
-  "name": "RAHMANI-XMD",
+  "name": "RAHEEM_XMD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "pkdriller.js",
@@ -121,7 +121,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "RAHMANI-XMD",
+  "author": "RAHEEM_XMD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
