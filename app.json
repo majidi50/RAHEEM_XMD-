@@ -73,7 +73,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "RAHEEM_XMD",
+      "value": "RAHEEM_XMD-",
       "required": false 
     },
     "PUBLIC_MODE": {
