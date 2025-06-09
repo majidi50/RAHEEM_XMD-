@@ -11,7 +11,7 @@ zokou(
     nomFichier: __filename 
   },
   async (dest, zk, commandeOptions) => {
-    const githubRepo = "https://api.github.com/repos/Raheem-cm/RAHEEM-XMD";
+    const githubRepo = "https://api.github.com/repos/Raheem-cm/RAHEEM-XMD-";
     const img = "https://files.catbox.moe/z5g58c.jpg";
 
     try {
