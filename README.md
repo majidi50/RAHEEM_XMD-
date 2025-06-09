@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD-)](https://git.io/typing-svg) 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=FFD7000&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER+RAHEEM_XMD+😂+0018)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=FFD7000&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER+RAHEEM_XMD-+😂+0018)](https://git.io/typing-svg)
 <!-- Optional: Add an Image -->
 <p align="center">
   <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="350"/>
@@ -14,7 +14,7 @@
 
 ### ❤️ Fork My Repo
 <p align="center">
-  <a href="https://github.com/Raheem-cm/RAHEEM_XMD/fork">
+  <a href="https://github.com/Raheem-cm/RAHEEM_XMD-/fork">
     <img src="https://img.shields.io/badge/FORK%20REPO-black?style=for-the-badge&logo=porsche&logoColor=gold" width="220" height="38.45" />
 
 
@@ -28,13 +28,13 @@
   _______________
 </p>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 ____________
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 _____________
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 _____________
 ## 🌍 Join The Community
@@ -54,7 +54,7 @@ _____________
 
 ---
 
-## RAHEEM_XMD
+## RAHEEM_XMD-
 
 RAHEEM_XMD is a powerful WhatsApp bot with multiple features to automate tasks, moderate groups, and provide entertainment. Deploy it effortlessly to your favorite cloud hosting platform.
 
@@ -65,13 +65,13 @@ RAHEEM_XMD is a powerful WhatsApp bot with multiple features to automate tasks, 
 Deploy the bot easily using the buttons below:
 
 <p>
-  <a href="https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD">
+  <a href="https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD-">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"/>
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD">
+  <a href="https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway"/>
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD">
+  <a href="https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD-">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
   </a>
 </p>
@@ -102,8 +102,8 @@ Deploy the bot easily using the buttons below:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Raheem-cm/RAHEEM_XMD.git
-    cd RAHEEM_XMD
+    git clone https://github.com/Raheem-cm/RAHEEM_XMD-.git
+    cd RAHEEM_XMD-
     ```
 
 2. **Install dependencies:**
@@ -130,7 +130,7 @@ Edit the `.env` file to set up your WhatsApp session and other configurations.
 ---
 
 
-Or open an issue on the [GitHub Issues page](https://github.com/Raheem-cm/RAHEEM_XMD/issues).
+Or open an issue on the [GitHub Issues page](https://github.com/Raheem-cm/RAHEEM_XMD-/issues).
 
 ---
 
