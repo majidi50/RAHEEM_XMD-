@@ -1,4 +1,4 @@
-  "name": "RAHEEM-XMD",
+  "name": "RAHEEM_XMD",
   "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -103,7 +103,7 @@
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/lllpe3.jpg",
+      "value": "https://files.catbox.moe/qbxtd5.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
