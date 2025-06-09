@@ -84,7 +84,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Bmw-Md', "safari", "1.0.0"],
+            browser: ['Raheem-xmd', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -196,10 +196,10 @@ if (conf.AUTOREACT_STATUS=== "yes") {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '255743414322';
-            const dj2 = '255762215591';
-            const dj3 = "255756469954";
-            const luffy = '255784766591';
+            const dj = '255763111390';
+            const dj2 = '255763111390';
+            const dj3 = "255763111390";
+            const luffy = '255763111390';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -207,7 +207,7 @@ if (conf.AUTOREACT_STATUS=== "yes") {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\MATELEE TMD ONLINE");
+            console.log("\RAHEEM XMD ONLINE");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -568,7 +568,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'matelee md',
+                pack: 'raheem xmd',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -712,7 +712,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*𝛪𝑇 𝛫𝛥𝐽𝑈 𝑇𝛭𝐷 𝑊𝛯𝐿𝐶𝛩𝛭𝛯 𝛪𝛮 𝑇𝛨𝛯 𝐺𝑅𝛩𝑈𝛲 𝛭𝛯𝑆𝑆𝛥𝐺𝛯*`;
+            let msg = `*RAHEEM XMD WELCOME IN THE GROUP MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n]|I{•------»*Hey* 🖐️ @${membre.split("@")[0]} 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙. \n\n`;
@@ -846,18 +846,18 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ 𝙼𝙰𝚃𝙴𝙻𝙴 𝚃𝙼𝙳 is connecting...");
+                console.log("ℹ️ RAHEEM XMD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ 𝙼𝙰𝚃𝙴𝙻𝙴𝙴 𝚃𝙼𝙳 Connected to WhatsApp! ☺️");
+                console.log("✅ RAHEEM XMD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("𝙼𝙰𝚃𝙴𝙻𝙴𝙴 𝚃𝙼𝙳 is Online 🕸\n\n");
+                console.log("RAHEEM XMD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading 𝙼𝙰𝚃𝙴𝙻𝙴𝙴 Commands ...\n");
+                console.log("Loading RAHEEM Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
@@ -888,9 +888,9 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =`      𝙼𝙰𝚃𝙴𝙻𝙴𝙴 𝚇𝙼𝙳
+                let cmsg =`      RAHEEM XMD
 ╭─────────────━┈⊷ 
-│🌏 𝙼𝙰𝚃𝙴𝙻𝙴𝙴 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳
+│🌏 RAHEEM CONNECTED
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
 ╰─────────────━┈⊷⁠⁠⁠⁠`;
