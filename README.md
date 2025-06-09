@@ -37,14 +37,20 @@ _____________
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qartde/RAHMANI-XMD)
 
 _____________
-[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
-
----
+## 🌍 Join The Community
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VatokI45EjxufALmY32X" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Follow%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Follow our WhatsApp Channel" />
+  <a href="https://chat.whatsapp.com/Jp08rEdDmao1CvCOLH2KTT">
+    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
+
+
+
+## 📣 Official Channel:
+</a>
+  <a href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
+    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
 </p>
+
 
 ---
 
@@ -127,7 +133,7 @@ Edit the `.env` file to set up your WhatsApp session and other configurations.
 
 Found an error or need help? [Contact the maintainer directly on WhatsApp.](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
 
-Or open an issue on the [GitHub Issues page](https://github.com/Qartde/RAHMANI-XMD/issues).
+Or open an issue on the [GitHub Issues page](https://github.com/Raheem-cm/RAHEEM-XMD/issues).
 
 ---
 
