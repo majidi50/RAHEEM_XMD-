@@ -56,7 +56,7 @@ _____________
 
 ## RAHEEM-XMD
 
-RAHMANI-XMD is a powerful WhatsApp bot with multiple features to automate tasks, moderate groups, and provide entertainment. Deploy it effortlessly to your favorite cloud hosting platform.
+RAHEEM-XMD is a powerful WhatsApp bot with multiple features to automate tasks, moderate groups, and provide entertainment. Deploy it effortlessly to your favorite cloud hosting platform.
 
 ---
 
@@ -102,8 +102,8 @@ Deploy the bot easily using the buttons below:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Qartde/RAHMANI-XMD.git
-    cd RAHMANI-XMD
+    git clone https://github.com/Raheem-cm/RAHEEM-XMD.git
+    cd RAHEEM-XMD
     ```
 
 2. **Install dependencies:**
@@ -129,9 +129,6 @@ Edit the `.env` file to set up your WhatsApp session and other configurations.
 
 ---
 
-## 🙋 Support & Reporting Issues
-
-Found an error or need help? [Contact the maintainer directly on WhatsApp.](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
 
 Or open an issue on the [GitHub Issues page](https://github.com/Raheem-cm/RAHEEM-XMD/issues).
 
