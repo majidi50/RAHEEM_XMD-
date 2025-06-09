@@ -1,4 +1,9 @@
-# RAHMANI-XMD WhatsApp Bot
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD)](https://git.io/typing-svg) 
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=FFD7000&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER+RAHEEM_XMD+😂+0018)](https://git.io/typing-svg)
 <!-- Optional: Add an Image -->
 <p align="center">
   <img src="https://files.catbox.moe/aktbgo.jpg" alt="Demo Image" width="350"/>
