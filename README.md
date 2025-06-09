@@ -10,7 +10,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD+😜+0018)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD-+😜+0018)](https://git.io/typing-svg)
 
 ### ❤️ Fork My Repo
 <p align="center">
@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 ## 📣 Credits
 
 - [Baileys WhatsApp library](https://github.com/adiwajshing/Baileys)
-- [Qartde](https://github.com/Raheem-cm) and contributors
+- [Raheem-cm](https://github.com/Raheem-cm) and contributors
 
 ---
 
