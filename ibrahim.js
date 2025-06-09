@@ -207,7 +207,7 @@ if (conf.AUTOREACT_STATUS=== "yes") {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\RAHEEM XMD ONLINE");
+            console.log("\RAHEEM XMD- ONLINE");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -568,7 +568,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'raheem xmd',
+                pack: 'raheem xmd-',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -712,7 +712,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*RAHEEM XMD WELCOME IN THE GROUP MESSAGE*`;
+            let msg = `*RAHEEM XMD- WELCOME IN THE GROUP MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n]|I{•------»*Hey* 🖐️ @${membre.split("@")[0]} 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙. \n\n`;
@@ -846,16 +846,16 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ RAHEEM XMD is connecting...");
+                console.log("ℹ️ RAHEEM XMD- is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ RAHEEM XMD Connected to WhatsApp! ☺️");
+                console.log("✅ RAHEEM XMD- Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("RAHEEM XMD is Online 🕸\n\n");
+                console.log("RAHEEM XMD- is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading RAHEEM Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -890,7 +890,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =`      RAHEEM XMD
 ╭─────────────━┈⊷ 
-│🌏 RAHEEM CONNECTED
+│🌏 RAHEEM XMD CONNECTED
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
 ╰─────────────━┈⊷⁠⁠⁠⁠`;
