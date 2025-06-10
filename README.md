@@ -22,7 +22,7 @@
 [![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Raheem-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+255763111390)
 
   <!-- Get Session Button -->
-  <a href="https://rahmani-4.onrender.com" target="_blank">
+  <a href="https://xmd-session.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ff9800?style=for-the-badge&logo=bolt&logoColor=white&labelColor=f57c00&color=ff9800" alt="Get Session"/>
  </a>
   _______________
