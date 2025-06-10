@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING RAHEEM-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Raheem-cm/RAHMANI-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑹𝒂𝒉𝒎𝒂𝒏𝒊 𝑴𝒅");  
+    repondre("THANK YOU FOR CHOOSING RAHEEM-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Raheem-cm/RAHEEM_XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 Raheem Xmd");  
     await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING RAHEEM-XMD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
