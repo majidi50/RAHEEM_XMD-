@@ -399,7 +399,7 @@ let menuMsg = `
                 externalAdReply: {
                     title: "RAHEEM-XMD SURAH LIST",
                     body: "Live with God my friends you don't know your tomorrow",
-                    thumbnailUrl: "https://files.catbox.moe/z5g58c.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/daj3p0.jpg",
                     sourceUrl: "https://https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T",
                     mediaType: 1,
                     renderLargerThumbnail: true
