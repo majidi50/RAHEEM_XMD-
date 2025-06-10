@@ -59,10 +59,10 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
     const { ms, mybotpic } = commandeOptions;  
   
     const devs = [  
-        { nom: "dev RahmaniMd", numero: "255693629079" }  
+        { nom: "dev Raheem Xmd", numero: "255763111390" }  
     ];  
   
-    let message = "WELCOME TO RAHMANI-MD HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
+    let message = "WELCOME TO RAHEEM_XMD HELP CENTER! ASK FOR HELP FROM THE DEVELOPER BELOW:\n\n";  
     for (const dev of devs) {  
         message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;  
     }  
@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "⭐" }, async (dest, zk,
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING RAHMANI-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VatokI45EjxufALmY32X] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Qartde/RAHMANI-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑹𝒂𝒉𝒎𝒂𝒏𝒊 𝑴𝒅");  
-    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING RAHMANI-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
+    repondre("THANK YOU FOR CHOOSING RAHEEM-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Qartde/RAHMANI-XMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑹𝒂𝒉𝒎𝒂𝒏𝒊 𝑴𝒅");  
+    await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING RAHEEM-XMD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
