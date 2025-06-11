@@ -1,10 +1,14 @@
 <!-- Fancy Typing SVG - Top Section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+RAHEEM_XMD-%F0%9F%91%8B;This+is+RAHEEM_XMD-'s+World)](https://git.io/typing-svg)
 
+
+
 <!-- Catbox Image (centered) -->
 <p align="center">
   <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="350"/>
 </p>
+
+
 
 <!-- Fancy Typing SVG - Bottom Section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Ready+to+explore+with+RAHEEM_XMD-%3F;Don't+hesitate+to+ask+anything+%F0%9F%98%8E)](https://git.io/typing-svg)
