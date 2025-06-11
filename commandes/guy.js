@@ -78,7 +78,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("RAHMANI MD") ; return};
+    if(!superUser) { repondre ("RAHEEM_XMD-") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
