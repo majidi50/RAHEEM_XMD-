@@ -125,21 +125,21 @@ const date = moment().format('DD/MM/YYYY');
    *Raheem Xmd IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Raheem-cm/RAHEEM-XMD
+> https://github.com/Raheem-cm/RAHEEM_XMD-
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Raheem-cm/RAHEEM-XMD INFO⁠
+> https://github.com/Raheem-cm/RAHEEM_XMD- INFO⁠
 ╭───────────────────❒
-│❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│❒⁠⁠⁠⁠ *RAH* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *Raheem Xmd*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     RAHMANI DEV
+     RAHEEM DEV
 
 ❒────────────────────❒`;
 
