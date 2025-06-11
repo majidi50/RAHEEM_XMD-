@@ -5,7 +5,7 @@
 
 <!-- Catbox Image (centered) -->
 <p align="center">
-  <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="500"/>
+  <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="1000"/>
 </p>
 
 
