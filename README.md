@@ -1,16 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD-)](https://git.io/typing-svg) 
+<!-- Fancy Typing SVG - Top Section -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+RAHEEM_XMD-%F0%9F%91%8B;This+is+RAHEEM_XMD-'s+World)](https://git.io/typing-svg)
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=FFD7000&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER+RAHEEM_XMD-+😂+18)](https://git.io/typing-svg)
-<!-- Optional: Add an Image -->
+<!-- Catbox Image (centered) -->
 <p align="center">
   <img src="https://files.catbox.moe/z5g58c.jpg" alt="Demo Image" width="350"/>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=FFD700&lines=true&vCenter=true&width=815&height=100&lines=RAHEEM_XMD-+😜+0018)](https://git.io/typing-svg)
+<!-- Fancy Typing SVG - Bottom Section -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Ready+to+explore+with+RAHEEM_XMD-%3F;Don't+hesitate+to+ask+anything+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 ### ❤️ Fork My Repo
 <p align="center">
