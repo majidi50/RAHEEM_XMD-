@@ -35,10 +35,10 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *RAHMANI-XMD IMPORTANT INFO* 
+   *RAHEEM_XMD- IMPORTANT INFO* 
 ❒═════════════════❒
 *GITHUB LINK*
-> https://github.com/Raheem-cm/RAHEEM-XMD
+> https://github.com/Raheem-cm/RAHEEM_XMD-
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ❒═══════════❒
-       *RAHEEM-XMD*
+       *RAHEEM_XMD-*
 ❒═══════════❒`;
 
    var lien = mybotpic();
@@ -120,19 +120,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *RAHEEM-XMD IMPORTANT INFO* 
+   *RAHEEM_XMD- IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Raheem-cm/RAMN-XMD
+> https://github.com/Raheem-cm/RAHEEM_XMD-
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+> https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Raheem-cm/RAHEEM-XMD INFO⁠
+> https://github.com/Raheem-cm/RAHEEM_XMD- INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAHEEM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Rahmani*
+│❒⁠⁠⁠⁠ *DEV* : *Raheem*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
