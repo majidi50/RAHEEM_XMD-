@@ -35,7 +35,10 @@ ____________
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 _____________
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
+[![Deploy to Heroku]
+src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+(https://heroku.com/deploy?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 _____________
 ## 🌍 Join The Community
