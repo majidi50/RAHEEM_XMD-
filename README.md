@@ -64,4 +64,4 @@ RAHEEM_XMD is a powerful WhatsApp bot with multiple features to automate tasks, 
   <img src="https://files.catbox.moe/z3385g.jpg" alt="Demo Image" width="300"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=I'm+editing+this+part+now+%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94;Thanks+a+lot,+dear+friends!;Hope+you+didn't+forget+to+fork+and+star+%F0%9F%A4%A3%F0%9F%A4%A3%F0%9F%A4%A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=I'm+editing+this+part+now+%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94;Thanks+a+lot,+dear+friends!;Hope+you+didn't+forget+to+fork+and+star+%F0%9F%A4%A3%F0%9F%A4%A3%F0%9F%A4%A3)](https://git.io/typing-svg)
