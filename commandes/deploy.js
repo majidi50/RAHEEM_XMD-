@@ -43,7 +43,7 @@ Hello ${nomAuteurMessage},,
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
 ✞ Open this link 👉 https://Raheem-cm.onrender.com   then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  255763111390 then tap submit 
-✞Rahmani-md owner , *Raheem* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
+✞Raheem-xmd owner , *Raheem* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Raheem-xmd owner sent you.
 ✞ After a successful login Raheem-xmd owner 🤔 Raheem will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
@@ -55,12 +55,12 @@ Hello ${nomAuteurMessage},,
 ✔Now click on this devs number and give Raheem-xmd owner credits https://wa.me/255763111390 
 ╰────────────────────☆`;
 let menuMsg = `
-     𝐑𝐞𝐠𝐚𝐫𝐝𝐬 dev Rahmani`;
+     𝐑𝐞𝐠𝐚𝐫𝐝𝐬 dev Raheem`;
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Rahmani*, déveloper Rahmani Md" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Raheem*, déveloper Raheem Md" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -70,7 +70,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Rahmanimd*, déveloper rahmani Md" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Rahmanimd*, déveloper raheem Md" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
