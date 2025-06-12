@@ -1,24 +1,24 @@
 {
-  "name": "Bmw-md",
+  "name": "Popkid-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "popkid.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "test": "node popkid.js",
+    "s": "node popkid.js",
+    "toshtech": "pm2 start popkid.js --attach",
+    "toshtech": "pm2 start popkid.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Raheem-md",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "raheem-md-boy"
   ],
-  "author": "Marisel",
+  "author": "popkid",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
