@@ -24,7 +24,7 @@
 
   <!-- Get Session Button -->
   <a href="https://rahmani-4.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Session-ff9800?style=for-the-badge&logo=bolt&logoColor=white&labelColor=f57c00&color=ff9800" alt="Get Session"/>
+    <img 1" src="https://img.shields.io/badge/❤️_GET_RAHEEM_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
  </a>
   _______________
 </p>
