@@ -56,4 +56,5 @@ _____________
 ---
 
 ## RAHEEM_XMD-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=48&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=950&lines=RAHEEM_XMD+is+a+powerful+WhatsApp+bot;Automate+tasks,+moderate+groups,+have+fun!;Deploy+it+effortlessly+to+your+cloud+platform!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=48&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&lines=🆁🅰🅷🅴🅴🅼-🆇🅼🅳+🅸🆂+🅰+🅿🅾🆆🅴🆁🅵🆄🅻+🆆🅷🅰🆃🆂🅰🅿🅿+🅱🅾🆃;🅰🆄🆃🅾🅼🅰🆃🅴+🆃🅰🆂🅺🆂,+🅼🅾🅳🅴🆁🅰🆃🅴+🅶🆁🅾🆄🅿🆂,+🅷🅰🆅🅴+🅵🆄🅽!;🅳🅴🅿🅻🅾🆈+🅸🆃+🅴🅵🅵🅾🆁🆃🅻🅴🆂🆂🅻🆈+🆃🅾+🆈🅾🆄🆁+🅲🅻🅾🆄🅳+🅿🅻🅰🆃🅵🅾🆁🅼!)](https://git.io/typing-svg)
