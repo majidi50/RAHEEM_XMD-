@@ -1,4 +1,4 @@
-{ hey
+{ 
   "name": "RAY-MJESH",
   "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
   "keywords": [
@@ -164,5 +164,3 @@
       "plan": "heroku-postgresql:essential-0"
     }
     
-   
-}
