@@ -1,5 +1,5 @@
-{
-  "name": "RAHEEM-XMD",
+{ hey
+  "name": "RAY-MJESH",
   "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -7,8 +7,8 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/7hxv7a.jpg",
-  "repository": "https://github.com/Raheem-cm/RAHEEM_XMD-",
+  "logo": "https://files.catbox.moe/27vbvk.jpg",
+  "repository": "https://github.com/RAY-MJESHI/RAY-MJESHI.git",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -74,7 +74,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "RAHEEM-XMD",
+      "value": "RAY-MJESHI",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -84,7 +84,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "HRKU-21f94f36-4701-4c14-8c77-e3f0d998fea8",
+       "" 
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -99,12 +99,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "RAHEEM-MD",
+      "value": "RAY-MJESHI",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/7hxv7a.jpg",
+      "value": "https://files.catbox.moe/27vbvk.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -114,7 +114,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547')",
-      "value": "255763111390",
+      "value": "255773350309",
       "required": false
     },
     "WARN_COUNT": {
@@ -163,5 +163,6 @@
     {
       "plan": "heroku-postgresql:essential-0"
     }
-  ]
+    
+   
 }
